@@ -37,6 +37,8 @@ A lambda value was optimized using cross-validation -> non-zero coefficients wer
 #### Missing valyes in the prediction dataset were imputed using the median for numeric variables and the mode for categorical variables.
 #### The neural network model was used to predict property valyes for 10,000 records in the predict_property_data.csv.
 #### ![Screenshot 2024-12-17 at 12 48 26 PM](https://github.com/user-attachments/assets/23437f95-c2c1-403f-be8d-1a5261c97b72)
+#### Output
+![Screenshot 2024-12-17 at 1 09 59 PM](https://github.com/user-attachments/assets/a03ff1ac-fb7f-444a-bd72-746c1d13fac8)
 # Recommendations for CCAO
 ## Adopt Neural Networks 
 Compare to traditional methods, neural network handle nonlinear patterns effectively.
