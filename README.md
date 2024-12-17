@@ -25,7 +25,7 @@ Summary statistics and a histogram of sale_price were generated to visualize its
 #### ![Screenshot 2024-12-17 at 12 46 20 PM](https://github.com/user-attachments/assets/2d75e169-f3c2-4eaa-b121-10efd330d518)
 ### Lasso Regression
 A lambda value was optimized using cross-validation -> non-zero coefficients were extracted to identify the most important features influencing the property values -> a subset of remaining perdictors was used for modeling.
-#### ![Screenshot 2024-12-17 at 12 46 38 PM](https://github.com/user-attachments/assets/d2dd7435-e7a7-44fe-980b-b09198d19fcd)
+#### ![Screenshot 2024-12-17 at 1 02 06 PM](https://github.com/user-attachments/assets/938d32b7-cea9-46e7-aac8-89c99b0e7867)
 ## Model Development
 ### Neural Network Model
 #### The model was chosen to capture nonlinear relationship between predictors and property values.
