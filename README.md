@@ -22,7 +22,7 @@ Summary statistics and a histogram of sale_price were generated to visualize its
 #### ![Screenshot 2024-12-17 at 12 45 43 PM](https://github.com/user-attachments/assets/5d90b896-8204-4899-a325-7057881f4a4c)
 ## Feature Selection
 ### High Correlated Variables
-Dropping columns with have high correlated variables.
+Dropping columns with have high correlated values.
 #### ![Screenshot 2024-12-17 at 1 00 36 PM](https://github.com/user-attachments/assets/b714100f-64c6-48d5-a683-5ab5554f6bf4)
 ### Lasso Regression
 A lambda value was optimized using cross-validation -> non-zero coefficients were extracted to identify the most important features influencing the property values -> a subset of remaining perdictors was used for modeling.
