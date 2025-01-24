@@ -1,12 +1,12 @@
 # Objectives
-## Predict residential property values based on historical data using machine learning techniques.
-## Minimize Mean Squared Error (MSE).
-## Provide actionable insights and recommendations to CCAO regarding property valuation practices.
+### Predict residential property values based on historical data using machine learning techniques.
+### Minimize Mean Squared Error (MSE).
+### Provide actionable insights and recommendations to CCAO regarding property valuation practices.
 
 # Data Structure
-## historic_property_data.csv: containing historical sales prices and property features (50,000 records).
-## predict_property_data.csv: containing property features for 10,000 new records.
-## codebook.csv: providing descriptons for all variables in the datasets.
+### historic_property_data.csv: containing historical sales prices and property features (50,000 records).
+### predict_property_data.csv: containing property features for 10,000 new records.
+### codebook.csv: providing descriptons for all variables in the datasets.
 
 # Technical Methodology
 ## Data Preprocessing
